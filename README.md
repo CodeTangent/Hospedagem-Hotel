@@ -5,6 +5,7 @@ O sistema permite registrar hóspedes, gerenciar suítes e calcular reservas aut
 
 Esse projeto foi desenvolvido como parte de um desafio guiado do curso da DIO em C#.
 
+---
 
 ## Estrutura do Projeto
 
@@ -16,7 +17,7 @@ HospedagemHotel/
 ├── Program.cs
 └── README.md
 
-##
+---
 
 ## Funcionalidades Principais
 
